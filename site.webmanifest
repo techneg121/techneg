@@ -3,17 +3,17 @@
     "short_name": "TechNeg",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "https://lh3.googleusercontent.com/-6icRo36uH1A/YZTQHzzNtOI/AAAAAAAAddw/YUrxvrwjN-Mpu6jmstwp8zAc2s-M868GACNcBGAsYHQ/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-256x256.png",
+            "src": "https://lh3.googleusercontent.com/-7KsRe5YkNds/YZTYCrSrt4I/AAAAAAAAdeU/26TlnxtVmIExkbjgiyj4FCHyn2ilyfLjQCNcBGAsYHQ/android-chrome-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
+    "theme_color": "1087ff",
     "background_color": "#ffffff",
     "display": "standalone"
 }
