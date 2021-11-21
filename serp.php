@@ -59,43 +59,7 @@
 		}
 		.link{
 			color: #006621;
-			font-family: arial, sans-serif;
-			font-size: 14px;
-			line-height: 16px;
-			clear: both;
-			display: block;
-		}
-		.snippet{
-			color: rgb(84, 84, 84);
-			font-family: arial, sans-serif;
-			font-size: 13px;
-			line-height: 18.2px;
-		}
-		.rank{
-			font-family: arial,sans-serif;
-		    font-size: 24px;
-		    position: absolute;
-		    left: -60px;
-		    text-align: center;
-		    color: #FFF;
-		    padding: 22px 15px 10px;
-		    background-color: #0087FF;
-		    border-radius: 10px;
-		}
-		.rank:before{
-			content: "Google Position";
-		    font-size: 8px;
-		    position: absolute;
-		    top: 5px;
-		    text-align: center;
-		    left: 0;
-		    width: 90%;
-		    margin: 0 auto;
-		}
 
-	</style>
-  </head>
-<body>
 <?
  <form action="" method="POST">
 		<h1>SERP Checker</h1>
@@ -500,5 +464,3 @@ if (isset($_POST["domain"]) && isset($_POST["query"])){
 
 }
 ?>
-</body>
-</html>
