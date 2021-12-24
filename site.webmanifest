@@ -11,6 +11,11 @@
             "src": "https://lh3.googleusercontent.com/-7KsRe5YkNds/YZTYCrSrt4I/AAAAAAAAdeU/26TlnxtVmIExkbjgiyj4FCHyn2ilyfLjQCNcBGAsYHQ/android-chrome-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
+        },
+         {
+            "src": "https://lh3.googleusercontent.com/-PGuW0f5dogI/YcX3MlXg7HI/AAAAAAAAeFs/FoDGRzytNm48Xsoz23vSILtEmbij4H28gCNcBGAsYHQ/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
     ],
     "theme_color": "#1087ff",
